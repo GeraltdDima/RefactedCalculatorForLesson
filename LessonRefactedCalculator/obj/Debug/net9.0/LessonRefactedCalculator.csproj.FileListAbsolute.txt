@@ -1,0 +1,14 @@
+/home/dima/LocalProjects/Projects/DotnetProjects/LessonProjects/LessonRefactedCalculator/obj/Debug/net9.0/LessonRefactedCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/dima/LocalProjects/Projects/DotnetProjects/LessonProjects/LessonRefactedCalculator/obj/Debug/net9.0/LessonRefactedCalculator.AssemblyInfoInputs.cache
+/home/dima/LocalProjects/Projects/DotnetProjects/LessonProjects/LessonRefactedCalculator/obj/Debug/net9.0/LessonRefactedCalculator.AssemblyInfo.cs
+/home/dima/LocalProjects/Projects/DotnetProjects/LessonProjects/LessonRefactedCalculator/obj/Debug/net9.0/LessonRefactedCalculator.csproj.CoreCompileInputs.cache
+/home/dima/LocalProjects/Projects/DotnetProjects/LessonProjects/LessonRefactedCalculator/bin/Debug/net9.0/LessonRefactedCalculator
+/home/dima/LocalProjects/Projects/DotnetProjects/LessonProjects/LessonRefactedCalculator/bin/Debug/net9.0/LessonRefactedCalculator.deps.json
+/home/dima/LocalProjects/Projects/DotnetProjects/LessonProjects/LessonRefactedCalculator/bin/Debug/net9.0/LessonRefactedCalculator.runtimeconfig.json
+/home/dima/LocalProjects/Projects/DotnetProjects/LessonProjects/LessonRefactedCalculator/bin/Debug/net9.0/LessonRefactedCalculator.dll
+/home/dima/LocalProjects/Projects/DotnetProjects/LessonProjects/LessonRefactedCalculator/bin/Debug/net9.0/LessonRefactedCalculator.pdb
+/home/dima/LocalProjects/Projects/DotnetProjects/LessonProjects/LessonRefactedCalculator/obj/Debug/net9.0/LessonRefactedCalculator.dll
+/home/dima/LocalProjects/Projects/DotnetProjects/LessonProjects/LessonRefactedCalculator/obj/Debug/net9.0/refint/LessonRefactedCalculator.dll
+/home/dima/LocalProjects/Projects/DotnetProjects/LessonProjects/LessonRefactedCalculator/obj/Debug/net9.0/LessonRefactedCalculator.pdb
+/home/dima/LocalProjects/Projects/DotnetProjects/LessonProjects/LessonRefactedCalculator/obj/Debug/net9.0/LessonRefactedCalculator.genruntimeconfig.cache
+/home/dima/LocalProjects/Projects/DotnetProjects/LessonProjects/LessonRefactedCalculator/obj/Debug/net9.0/ref/LessonRefactedCalculator.dll
